@@ -1,3 +1,6 @@
 hello i m automations
 
-# 
+# Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 8 threads
+Compressing objects: 1
